@@ -1,3 +1,2 @@
 ### Hi there 👋
-I am NumberColumn, a programmer.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-i am parteh in disguise hahahaha
+This is NumberColumn, a coding alias of [yaay1010](https://github.com/yaay1010/) aka [PartehDev](https://github.com/PartehDev/).
